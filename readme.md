@@ -1,6 +1,5 @@
 revision of react by chai aur code channel
 
-##
-In lecture 2 and 3
+## In lecture II and III
 
 I learnt react inner working and why react is SPA
